@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(8, 51, 7);
+}
+
+li {
+    color: aliceblue;
+    display: inline-block;
+    margin: 20px;
+    cursor: pointer;
+}
