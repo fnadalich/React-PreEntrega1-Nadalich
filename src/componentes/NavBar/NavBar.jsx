@@ -5,7 +5,7 @@ import './NavBar.css';
 const NavBar = () => {
   return (
     <header>
-        <h1>FISHER SHOP</h1>
+      <img src={"./img/logo 1.png"} alt="logo" />
         <nav>
             <ul>
                 <li>Reels</li>

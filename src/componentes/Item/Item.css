@@ -1,5 +1,5 @@
 .cardProducto {
-    background-color: rgb(5, 153, 96);
+    background-color: rgb(206, 228, 219);
     border-radius: 15px;
     width: 20rem;
     margin: 1rem;
@@ -15,8 +15,8 @@
 }
 
 .cardProducto button {
-    background-color: rgb(196, 218, 210);
-    color: #1f583d;
+    background-color: rgb(44, 146, 109);
+    color: #f6fcf9;
     font-size: 1.2rem;
     border-radius: 10px;
     border: none;
