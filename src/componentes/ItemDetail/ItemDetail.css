@@ -1,8 +1,11 @@
+
 .contenedorItem {
+    background-color: beige;
+    border-radius: 15px;
     width: 30vw;
     text-align: center;
     border: 1px solid black;
-margin: 4rem;
+    margin: 4rem;
 }
 
 img {
