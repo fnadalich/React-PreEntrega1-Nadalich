@@ -1,7 +1,7 @@
 header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     border-bottom: 15px solid rgb(44, 146, 109);
     background-color: rgb(220, 230, 134);
 }
@@ -11,6 +11,7 @@ ul{
 }
 
 li {
+    text-decoration: none;
     color: aliceblue;
     display: inline-block;
     margin: 30px;
